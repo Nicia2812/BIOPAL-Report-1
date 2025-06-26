@@ -40,9 +40,9 @@ This study was conducted as part of the **Diploma in Biomedical Science – Biop
 
 ## 📈 Summary of Findings
 
-- **Log-uACR was not normally distributed** (Shapiro-Wilk p < 0.05)
-- **Financial stress levels significantly affect uACR** (Kruskal-Wallis p < 0.001)
-- **Food insecurity did not show a significant impact on uACR** (Mann-Whitney p > 0.05)
+- **Log-uACR** (Shapiro-Wilk p )
+- **Financial stress levels affect uACR** (Kruskal-Wallis p < )
+- **Food insecurity impact on uACR** (Mann-Whitney p >)
 - **Moderate stress group had more outliers**, suggesting greater risk variability
 
 ## 📌 How to View or Run the Notebook

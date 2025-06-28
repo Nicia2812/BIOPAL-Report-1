@@ -29,7 +29,7 @@ This study was conducted as part of the **Diploma in Biomedical Science – Biop
 |----------|------|-------------|
 | uACR | URXUMA / URXUCR | Biomarker for early kidney damage |
 | Uric Acid | URXUAC | Biomarker linked to inflammation and filtration |
-| eGFR | Derived from LBXSCR, RIDAGEYR, RIAGENDR | Estimated kidney filtration rate |
+| BUN | LBDSBUSI | Biomarker linked to effectiveness of kidney filtration |
 | Age | RIDAGEYR | Years |
 | Gender | RIAGENDR | Male / Female |
 | Race | RIDRETH3 | Ethnicity |
@@ -57,17 +57,13 @@ This study was conducted as part of the **Diploma in Biomedical Science – Biop
 Class: 2P01 Group 2
 
 ## 📚 References
-
-- Matsushita, K. et al., 2010. Association of estimated glomerular filtration rate and albuminuria with all-cause and cardiovascular mortality. *Lancet*, 375(9731), pp.2073–2081. https://doi.org/10.1016/S0140-6736(10)60674-5  
-- Inker, L.A. et al., 2023. Change in albuminuria and GFR as end points for clinical trials in early stages of CKD. *American Journal of Kidney Diseases*, 81(3), pp.293–305. https://doi.org/10.1053/j.ajkd.2022.09.006  
-- National Kidney Foundation, 2023. Kidney failure risk factor: urine albumin-creatinine ratio (uACR). https://www.kidney.org/kidney-failure-risk-factor-urine-albumin-creatinine-ratio-uacr
-- Scialla, J.J. & Anderson, C.A.M., 2020. Diet and Chronic Kidney Disease: A Focus on Plant-Based Diets: A Scientific Statement From the American Heart Association. Circulation, 141(6), pp.e33–e43. https://doi.org/10.1161/CIR.0000000000000740
-- Rysz, J., Gluba-Brzózka, A., Franczyk, B., Jabłonowski, Z. & Ciałkowska-Rysz, A., 2022. Novel Biomarkers in the Diagnosis of Chronic Kidney Disease and the Prediction of Its Outcome. International Journal of Molecular Sciences, 23(1), p.13. https://doi.org/10.3390/ijms23010013
-- Singh, R., Vohra, R. & Dewan, R., 2023. Chronic Kidney Disease. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing. Available at: https://www.ncbi.nlm.nih.gov/books/NBK507821/ [Accessed 18 Jun. 2025].
-- Vassalotti, J.A., Centor, R., Turner, B.J., Greer, R.C., Choi, M. & Sequist, T.D., 2014. Practical Approach to Detection and Management of Chronic Kidney Disease for the Primary Care Clinician. The American Journal of Medicine, 127(6), pp.542–549. https://doi.org/10.1016/j.amjmed.2013.11.027
-- Levey, A.S., Stevens, L.A., Schmid, C.H., Zhang, Y.L., Castro, A.F., Feldman, H.I., Kusek, J.W., Eggers, P., Van Lente, F., Greene, T. & Coresh, J., 2009. A New Equation to Estimate Glomerular Filtration Rate. Annals of Internal Medicine, 150(9), pp.604–612. https://doi.org/10.7326/0003-4819-150-9-200905050-00006
-- Liu, P., Liang, Y., Cui, S., Hu, K., Lin, L., Shao, X. & Lei, M., 2023. Association of uric acid with the decline in estimated glomerular filtration rate in middle‑aged and elderly populations: evidence based on the China Health and Retirement Longitudinal Study. BMJ Open, 13(5), e071771. https://doi.org/10.1136/bmjopen-2023-071771
-- Kramer, H.J., Nguyen, Q.D., Curhan, G., Hsu, C.-Y., Kestenbaum, B., Lora, C.M., Ricardo, A.C., Ravel, J., Saran, R., Saydah, S., Schelling, J.R. & Vassalotti, J.A., 2017. US Renal Data System 2016 Annual Data Report: Epidemiology of Kidney Disease in the United States. American Journal of Kidney Diseases, 69(3 Suppl 1), pp.A7–A8. https://doi.org/10.1053/j.ajkd.2016.12.004
+- Ammirati, A.L., 2020. Chronic kidney disease. Revista da Associação Médica Brasileira, 66(Suppl 1), pp.s03–s09. doi:10.1590/1806-9282.66.S1.3.
+- Naber, T. and Purohit, S., 2021. Chronic kidney disease: Role of diet for a reduction in the severity of the disease. Nutrients, 13(9), p.3277. doi:10.3390/nu13093277.
+- National Kidney Foundation, 2022. Urine albumin-to-creatinine ratio (UACR): A key marker for kidney disease. [online] Available at: https://www.kidney.org/kidney-failure-risk-factor-urine-albumin-creatinine-ratio-uacr [Accessed 25 Jun 2025].
+- Weiner, I.D., Mitch, W.E. and Sands, J.M., 2015. Urea and ammonia metabolism and the control of renal nitrogen excretion. Clinical Journal of the American Society of Nephrology, 10(8), pp.1444–1458. doi:10.2215/CJN.10311013.
+- Kanbay, M., Yilmaz, M.I., Sonmez, A., Turgut, F., Saglam, M., Cakir, E., Yenicesu, M., Covic, A., Jalal, D. and Johnson, R.J., 2011. Serum uric acid level and endothelial dysfunction in patients with nondiabetic chronic kidney disease. American Journal of Nephrology, 33(4), pp.298–304. doi:10.1159/000324847.
+- Liu, P., Liang, Y., Cui, S., Hu, K., Lin, L., Shao, X. and Lei, M., 2023. Association of uric acid with the decline in estimated glomerular filtration rate in middle-aged and elderly populations: Evidence based on the China Health and Retirement Longitudinal Study. BMJ Open, 13(5), e071771. doi:10.1136/bmjopen-2023-071771.
+- Tsai, C.W., Lin, S.Y., Kuo, C.C. and Huang, C.C., 2017. Serum uric acid and progression of kidney disease: A longitudinal analysis and mini-review. PLOS ONE, 12(1), e0170393. doi:10.1371/journal.pone.0170393.
 
 ---
 

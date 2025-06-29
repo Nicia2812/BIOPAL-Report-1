@@ -1,4 +1,4 @@
-# Investigating Psychosocial and Socioeconomic Factors Effect On Kidney Dysfunction Using NHANES Data (2017–2018)
+# Investigating Psychosocial and Socioeconomic Factors Effect On Kidney Dysfunction Using NHANES Data (2007–2018)
 
 This project explores how **age**, **gender**, **race**, **BMI**, **physical activity**, **financial stress**, **food insecurity**, and other socioeconomic factors affect kidney function in U.S. adults aged 20 and above. Using data from NHANES 2017–2018, we analyze key biomarkers — **urine albumin-to-creatinine ratio (uACR)**, **uric acid**, and **eGFR** — to identify early signs of kidney dysfunction.
 
@@ -14,8 +14,7 @@ This study was conducted as part of the **Diploma in Biomedical Science – Biop
 
 ## 📊 Methodology
 
-- **Data Source**: NHANES 2017–2018  
-- **Sample Size**: n = 5,533 U.S. adults aged 20+  
+- **Data Source**: NHANES 2007–2018  
 - **Analysis Tools**: Python (pandas, matplotlib, seaborn), Google Colab  
 - **Statistical Tests**:  
   - Non-parametric (Kruskal-Wallis, Mann-Whitney U)  
